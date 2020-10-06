@@ -43,7 +43,7 @@ struct SDFFeatureList : FeatureList<
   sdf::ConstructSdfJoint,
   sdf::ConstructSdfCollision,
   sdf::ConstructSdfVisual
-> { };
+  >{};
 
 class SDFFeatures :
     public virtual EntityManagementFeatures,

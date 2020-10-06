@@ -164,6 +164,10 @@
 1. Add SetJointVelocityCommand feature.
     * [BitBucket pull request 100](https://osrf-migration.github.io/ignition-gh-pages/#!/ignitionrobotics/ign-physics/pull-requests/100)
 
+1. Add Bullet physics engine
+    * [Pull request 99](https://bitbucket.org/ignitionrobotics/ign-physics/pull-requests/99)
+    * [Pull request 98](https://bitbucket.org/ignitionrobotics/ign-physics/pull-requests/98)
+
 1. Add `IGN_PROFILER_ENABLE` cmake option for enabling the ign-common profiler.
     * [BitBucket pull request 96](https://osrf-migration.github.io/ignition-gh-pages/#!/ignitionrobotics/ign-physics/pull-requests/96)
 
